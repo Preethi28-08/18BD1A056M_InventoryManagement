@@ -1,0 +1,11 @@
+Fid,Category,Type,Stock,Cost_price,Selling_price
+1,Shirts,Cotton,131,500,500
+2,T-shirts,Cotton,140,300,298
+3,Jeans,Denim,178,800,880
+4,Sarees,Silk,345,600,600
+5,Tops,Rayon,245,300,300
+6,Trousers,Rayon,321,1000,1000
+7,Jackets,Denim,345,1000,999
+8,Leggings,Rayon,678,200,200
+9,Kurtas,Cotton,123,200,200
+10,Kurtis,Cotton,567,200,200
